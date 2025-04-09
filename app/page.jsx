@@ -1,7 +1,15 @@
+import Education from "./components/Education";
+import Experience from "./components/Experience";
+import Right from "./components/Right";
+
 export default function Home() {
   return (
     <>
-      <h1>Digital Portfolio Home Page</h1>
+      <section>
+        <Right />
+        <Experience />
+        <Education />
+      </section>
     </>
   );
 }

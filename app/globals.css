@@ -10,3 +10,46 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-roboto);
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin: 20px;
+}
+
+h3 {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+h4 {
+  font-size: 1.5rem;
+  margin: 20px;
+}
+
+h5 {
+  font-size: 1.2rem;
+  margin: 20px;
+}
+
+p,
+ul {
+  margin: 20px;
+}
+
+.highlight {
+  color: #b87333;
+}

@@ -1,5 +1,6 @@
 import { Roboto } from "next/font/google";
 import "./globals.css";
+import Nav from "./components/Nav";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -15,9 +16,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${roboto.variable} antialiased`}>
-        <main className="max-w-" style={{ border: "1px solid red" }}>
-          {children}
-        </main>
+        <Nav />
+        <main>{children}</main>
       </body>
     </html>
   );
