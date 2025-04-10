@@ -22,34 +22,33 @@ h6 {
 
 h1 {
   font-size: 3.5rem;
-  margin: 20px;
 }
 
 h2 {
   font-size: 2.5rem;
-  margin: 20px;
 }
 
 h3 {
   font-size: 2rem;
-  margin: 20px;
 }
 
 h4 {
   font-size: 1.5rem;
-  margin: 20px;
 }
 
 h5 {
   font-size: 1.2rem;
-  margin: 20px;
 }
 
-p,
-ul {
-  margin: 20px;
+p {
+  margin: 1.5rem 0;
 }
 
 .highlight {
   color: #b87333;
+}
+
+.experienceDate {
+  font-size: 12px;
+  color: #8d5827;
 }

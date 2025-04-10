@@ -1,8 +1,10 @@
 export default function Right() {
   return (
     <>
-      <section className="max-w-7xl m-auto">
-        <h2 className="inline-block border-b-2 border-[#b87333]">About Me</h2>
+      <section id="about" className="max-w-7xl m-auto mb-5">
+        <h2 className="inline-block border-b-2 border-[#b87333] mb-5">
+          About Me
+        </h2>
         <p>
           With over 24 years of diverse professional experience spanning four
           countries, I bring a unique blend of expertise in music, teaching,
