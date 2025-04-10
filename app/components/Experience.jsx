@@ -8,7 +8,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">July/24 - Present</span>
+            <span className="experienceDate">July/2024 - Present</span>
             <h3>PA Sales and Rentals Associate</h3>
             <h5>Long and Mcquade Musical Instruments in Vancouver</h5>
 
@@ -44,7 +44,7 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">April/24 - July/24</span>
+            <span className="experienceDate">April/2024 - July/2024</span>
             <h3>Fryer Cleaner Technician</h3>
             <h4>Filta Environmental Kitchen Solutions in Vancouver</h4>
 
@@ -78,7 +78,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">March/23 - March/24</span>
+            <span className="experienceDate">March/2023 - March/2024</span>
             <h3>Civil Lawyer</h3>
             <h4>Julio Cesar Garcia Law Firm in Santos - Brazil</h4>
 
@@ -102,7 +102,7 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">July/22 - February/23</span>
+            <span className="experienceDate">July/2022 - February/2023</span>
             <h3>English Teacher</h3>
             <h4>GKB Professional Formation Institution in Santos - Brazil</h4>
 
@@ -120,7 +120,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">October/20 - February/22</span>
+            <span className="experienceDate">October/2020 - February/2023</span>
             <h3>Freelancer Translator</h3>
             <h4>Integra Games Inc in Rivne - Ukraine</h4>
 
@@ -132,7 +132,9 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">September/20 - February/23</span>
+            <span className="experienceDate">
+              September/2020 - February/2023
+            </span>
             <h3>Owner and Director</h3>
             <h4>Sargoi Concept Office in Rivne - Ukraine</h4>
 
@@ -209,7 +211,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">Change Dates</span>
+            <span className="experienceDate">March/2017 - December/2017</span>
             <h3>Civil Lawyer</h3>
             <h4>Julio Cesar Garcia Law Firm in Santos - Brazil</h4>
 
@@ -240,7 +242,7 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">May/15 - May/16</span>
+            <span className="experienceDate">May/2015 - May/2016</span>
             <h3>Civil Lawyer</h3>
             <h4>Brito & Dias Law Firm in Sao Paulo - Brazil</h4>
 
@@ -260,7 +262,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">September/14 - May/15</span>
+            <span className="experienceDate">September/2014 - May/2015</span>
             <h3>Career Break</h3>
             <h4>Focused on Brazilian Bar Exam (OAB)</h4>
 
@@ -280,7 +282,9 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">December/13 - September/14</span>
+            <span className="experienceDate">
+              December/2013 - September/2014
+            </span>
             <h3>Corporate Assistant</h3>
             <h4>Dow Chemical S.A. in Sao Paulo - Brazil</h4>
 
@@ -378,7 +382,7 @@ export default function Experience() {
           </article>
 
           <article className="mt-5 mb-5">
-            <span className="experienceDate">March/10 - December/12</span>
+            <span className="experienceDate">March/2010 - December/2010</span>
             <h3>Intern</h3>
             <h4>Bank Panamericano in Sao Paulo - Brazil</h4>
 
@@ -398,7 +402,7 @@ export default function Experience() {
 
         <div className="grid grid-cols-2 gap-10">
           <article className="mt-5 mb-5">
-            <span className="experienceDate">October/2011 - March/2010</span>
+            <span className="experienceDate">October/2001 - March/2010</span>
             <h3>Office Assistant</h3>
             <h4>Julio Cesar Garcia Law Firm in Santos - Brazil</h4>
 

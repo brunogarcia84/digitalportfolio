@@ -20,6 +20,21 @@ export default function Nav() {
               Experience
             </li>
           </Link>
+          <Link href="/#education">
+            <li className="pb-10 hover:text-[#b87333] transition-all duration-300">
+              Education
+            </li>
+          </Link>
+          <Link href="/#languages">
+            <li className="pb-10 hover:text-[#b87333] transition-all duration-300">
+              Languages
+            </li>
+          </Link>
+          <Link href="/interests">
+            <li className="pb-10 hover:text-[#b87333] transition-all duration-300">
+              Interests and Hobbies
+            </li>
+          </Link>
           <Link href="/contact">
             <li className="hover:text-[#b87333] transition-all duration-300">
               Contact

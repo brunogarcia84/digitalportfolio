@@ -24,9 +24,9 @@ export default function Right() {
         <p>
           In China, I further refined my teaching abilities as an English
           instructor, where I developed a deep understanding of cross-cultural
-          communication and education. My time in China cemented my passion for
-          helping students bridge language barriers and gain confidence in a
-          globalized world.
+          communication and education. Working online for a Chinese company
+          cemented my passion for helping students bridge language barriers and
+          gain confidence in a globalized world.
         </p>
 
         <p>
@@ -48,10 +48,25 @@ export default function Right() {
         </p>
 
         <p>
-          Whether through music, teaching, or business, my commitment to
-          continuous learning and fostering meaningful connections drives me to
-          excel and make a positive impact wherever I go.
+          This portfolio is built with a clear purpose: to share who I am, what
+          I’ve done, and what I’m passionate about — without unnecessary design
+          distractions.
         </p>
+
+        <p>
+          Instead of flashy visuals, the focus here is on content and clarity.
+          You’ll find information about my background, skills, projects, and
+          interests in a straightforward, honest way. It’s a reflection of how I
+          work: practical, focused, and driven by curiosity.
+        </p>
+
+        <p>
+          Whether it’s my journey through topics like astronomy, aviation, and
+          ufology, or the self-taught web development projects I’ve taken on
+          (like this site, built with Next.js), everything here is meant to give
+          you a real sense of what I do — and what I care about.
+        </p>
+        <p>Thanks for stopping by.</p>
       </section>
     </>
   );

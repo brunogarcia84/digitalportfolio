@@ -44,6 +44,36 @@ export default function Education() {
             <p>Brazil-United States Cultural Centre</p>
           </article>
         </div>
+
+        <h2 id="languages" className="inline-block border-b-2 border-[#b87333]">
+          Languages
+        </h2>
+
+        <div className="grid grid-cols-2 gap-10">
+          <article className="mt-5 mb-5">
+            <span className="experienceDate">Native</span>
+            <h3>Portuguese</h3>
+          </article>
+
+          <article className="mt-5 mb-5">
+            <span className="experienceDate">Fluent - C1</span>
+            <h3>English</h3>
+          </article>
+        </div>
+
+        <div className="grid grid-cols-2 gap-10">
+          <article className="mt-5 mb-5">
+            <span className="experienceDate">
+              Basic to Intermediary - A2-B1
+            </span>
+            <h3>Spanish</h3>
+          </article>
+
+          <article className="mt-5 mb-5">
+            <span className="experienceDate">Beginner - A1</span>
+            <h3>Ukranian</h3>
+          </article>
+        </div>
       </section>
     </>
   );
