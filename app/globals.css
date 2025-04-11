@@ -57,3 +57,8 @@ p {
   color: #8d5827;
   cursor: pointer;
 }
+
+.heroText {
+  font-size: 7rem;
+  margin-top: 12%;
+}

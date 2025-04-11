@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Nav() {
   return (
     <>
-      <nav className="flex justify-evenly">
+      <nav className="flex justify-evenly sticky top-0 z-10 bg-[#191919] border-0 rounded-2xl">
         <Link href="/">
           <h2>
             Bruno<span className="highlight">Garcia</span>

@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Footer() {
   return (
     <>
-      <footer className="mt-20 mb-20 flex justify-center">
+      <footer className="mt-20 mb-10 flex justify-center">
         <p>
           Not focused on design. I'm doing it as I go. Built with{" "}
           <Link className="footerLink" href="https://nextjs.org/">
@@ -24,7 +24,10 @@ export default function Footer() {
           >
             Roboto Font
           </Link>
-          . Deployed with <Link href="https://vercel.com">Vercel</Link>
+          . Deployed with{" "}
+          <Link className="footerLink" href="https://vercel.com">
+            Vercel
+          </Link>
         </p>
       </footer>
     </>

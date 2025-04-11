@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <>
-      <section className="flex items-center justify-center mt-[15%]">
+      <section className="flex items-center justify-center mt-[10%]">
         <div className="grid grid-cols-2 gap-10">
           <article>
             <h2 className="pl-40">Get in touch</h2>
